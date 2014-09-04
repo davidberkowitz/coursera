@@ -1,0 +1,51 @@
+-------
+git config --global user.name "davidberkowitz"
+git config --global user.email "davidberkowitz2009@gmail.com"
+-------
+git init
+
+get remote add origin https://github.com/devidberkowitz/coursera
+-------
+gt add .
+git add -u
+-or-
+git add -A
+
+add to index
+do this before committing
+-------
+git commit -m "message"
+
+updates local repo only
+-------
+git push
+
+update the remote repo with all committed changes
+-------
+git checkout -b branchname
+git branch
+git checkout master
+
+switch back to master
+-------
+http://git-scm.com/doc
+https://help.github.com/
+Google
+Stack Overflow
+-------
+.rmd 
+markdown
+
+# primary heading?
+## secondary heading
+### tertiary heading
+
+* unordered list item 1
+* unordered list item 2
+* unordered list item 3
+
+
+-------
+-------
+-------
+-------
